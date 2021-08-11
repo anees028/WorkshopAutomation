@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/WorkshopAutomation/static/css/main.78d4a8be.chunk.css",
-    "main.js": "/WorkshopAutomation/static/js/main.6f32db15.chunk.js",
-    "main.js.map": "/WorkshopAutomation/static/js/main.6f32db15.chunk.js.map",
+    "main.js": "/WorkshopAutomation/static/js/main.d8535294.chunk.js",
+    "main.js.map": "/WorkshopAutomation/static/js/main.d8535294.chunk.js.map",
     "runtime-main.js": "/WorkshopAutomation/static/js/runtime-main.468d6380.js",
     "runtime-main.js.map": "/WorkshopAutomation/static/js/runtime-main.468d6380.js.map",
     "static/css/2.818011ed.chunk.css": "/WorkshopAutomation/static/css/2.818011ed.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.818011ed.chunk.css",
     "static/js/2.d6c69e3d.chunk.js",
     "static/css/main.78d4a8be.chunk.css",
-    "static/js/main.6f32db15.chunk.js"
+    "static/js/main.d8535294.chunk.js"
   ]
 }
