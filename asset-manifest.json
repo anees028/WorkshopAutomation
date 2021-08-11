@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/WorkshopAutomation/static/css/main.78d4a8be.chunk.css",
+    "main.js": "/WorkshopAutomation/static/js/main.6f32db15.chunk.js",
+    "main.js.map": "/WorkshopAutomation/static/js/main.6f32db15.chunk.js.map",
+    "runtime-main.js": "/WorkshopAutomation/static/js/runtime-main.468d6380.js",
+    "runtime-main.js.map": "/WorkshopAutomation/static/js/runtime-main.468d6380.js.map",
+    "static/css/2.818011ed.chunk.css": "/WorkshopAutomation/static/css/2.818011ed.chunk.css",
+    "static/js/2.d6c69e3d.chunk.js": "/WorkshopAutomation/static/js/2.d6c69e3d.chunk.js",
+    "static/js/2.d6c69e3d.chunk.js.map": "/WorkshopAutomation/static/js/2.d6c69e3d.chunk.js.map",
+    "index.html": "/WorkshopAutomation/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/WorkshopAutomation/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.78d4a8be.chunk.css.map": "/WorkshopAutomation/static/css/main.78d4a8be.chunk.css.map",
+    "static/js/2.d6c69e3d.chunk.js.LICENSE.txt": "/WorkshopAutomation/static/js/2.d6c69e3d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/WorkshopAutomation/static/media/GothamRounded-Light.c27e2b47.woff2",
+    "static/media/all2.2183dabb.jpg": "/WorkshopAutomation/static/media/all2.2183dabb.jpg",
+    "static/media/all4.938219ee.jpg": "/WorkshopAutomation/static/media/all4.938219ee.jpg",
+    "static/media/am.65112fca.jpg": "/WorkshopAutomation/static/media/am.65112fca.jpg",
+    "static/media/background44.e059117a.jpg": "/WorkshopAutomation/static/media/background44.e059117a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.468d6380.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.d6c69e3d.chunk.js",
+    "static/css/main.78d4a8be.chunk.css",
+    "static/js/main.6f32db15.chunk.js"
+  ]
+}
